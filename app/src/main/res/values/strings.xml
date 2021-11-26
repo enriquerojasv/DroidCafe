@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Droid Cafe</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="choose_a_dessert">Choose a dessert:</string>
+    <string name="intro_text">Droid desserts</string>
+    <string name="donut_description">Que no lo vea Homer.</string>
+    <string name="icecream_description">Los de Mercadona mejores que los Maxibon.</string>
+    <string name="froyo_description">En llaollao disfrutarías.</string>
+    <string name="donut_order_message">You ordered a donut.</string>
+    <string name="icecream_order_message">You ordered an ice cream sandwich.</string>
+    <string name="froyo_order_message">You ordered a FroYo.</string>
+    <string name="intro_message">Choose a delivery method:</string>
+    <string name="sameday_message">Same day service, express delivery</string>
+    <string name="nextday_message">Next day delivery, dream about it tonight!</string>
+    <string name="pickup_message">Pick up. Better to get moving before eating that!</string>
+    
+    <string name="chosen">"Chosen: "</string>
+    <string name="nothing_clicked">onRadioButtonClicked: Nothing clicked.</string>
+</resources>
